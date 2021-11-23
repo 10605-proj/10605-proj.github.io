@@ -1,11 +1,15 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+title:               The ICLR Blog Track
+tagline:             ''
+description:         'For short-term, peer-sourced tests of time, generalizations, specializations, reproductions, etc.!'
+url:                 https://10605-proj.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+
+# github
+github:
+  repo: https://github.com/iclr-blog-track/iclr-blog-track.github.io
 
 # About/contact
 author:
@@ -18,7 +22,12 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
+<<<<<<< HEAD
 version:             1.1.0
 google_analytics_id: UA-146052-15
 
 theme: jekyll-theme-minimal
+=======
+version:             ICLR Spring 2021
+google_analytics_id: #UA-XXXX-Y
+>>>>>>> master
